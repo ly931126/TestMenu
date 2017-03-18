@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/rocket"
+      android:orderInCategory="1"
+      android:icon="@drawable/rocket"
+      android:title="@string/rocket"
+      />
+    <item android:id="@+id/soft_user"
+          android:orderInCategory="2"
+          android:icon="@drawable/soft_user"
+          android:title="@string/soft_user"
+          />
+    <item android:id="@+id/sys_app"
+          android:orderInCategory="3"
+          android:icon="@drawable/sys_app"
+          android:title="@string/sys_app"
+          />
+</menu>
